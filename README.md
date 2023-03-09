@@ -16,6 +16,8 @@
 
 Run the following command to install required npm packages:
 
+git clone https://github.com/stealtosvra/jimphasher.git
+
 npm install jimp progress
 
 -----------------------------------------------------------------------------  
