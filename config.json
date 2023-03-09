@@ -1,0 +1,5 @@
+{
+  "hashSize": 64,
+  "hashFilePath": "hashes64.json",
+  "imageDirectory": "./hash"
+}
